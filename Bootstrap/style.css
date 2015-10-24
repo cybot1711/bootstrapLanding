@@ -1,0 +1,131 @@
+
+.box {
+    background-color: lime;
+    border: 1px solid grey;
+}
+
+#div1 {
+    background-color: aqua;
+}
+
+#div2 {
+    background-color: black;
+}
+
+#div3 {
+    background-color: aquamarine;
+}
+
+#div4 {
+    background-color: blueviolet;
+}
+
+.contentDiv {
+    height: 800px;
+    
+}
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+
+#topContainer {
+    background-image: url("Cool%203D%20Background%20Wallpaper%20HD%206");
+    height: 400px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#topRow {
+    margin-top: 200px;
+    text-align: center;
+}
+
+#topRow h1 {
+    font-size: 400%;  
+    color:antiquewhite;
+
+    
+}
+
+#topRow p {
+    color: antiquewhite   
+    
+}
+
+body {
+  font-family:monospace;   
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+.bold {
+    font-weight: bold;
+}
+
+.margin-top {
+    margin-top: 25px;
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    margin-top: 100px;
+    font-size: 280%;
+    color: aliceblue;
+    
+}
+
+#midContainer {
+   background-image: url("Cool%203D%20Background%20Wallpaper%20HD%202");
+
+   width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+#fb {
+    width: 20%;
+   background-color:  #3B5998;
+    color: aliceblue;
+}
+
+.soc {
+    background-color:  #3B5998;
+    color: aliceblue;
+}
+
+.centreP {
+    color: aliceblue;
+    font-size: 1.2em;
+}
+
+.content2Container {
+    
+}
+
+#midRow h2 {
+    font-weight: bold;
+    color: aliceblue;
+}
+
+#footer {
+    background-image: url("back.jpg");
+    width: 100%;
+    z-index: 0;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.marginBottom {
+    margin-bottom: 30px;
+}
